@@ -38,7 +38,7 @@
 \>\>\> 97
 
 # HEXDIGEST
-### Returns the result of a hashing function a a string of double length
+### Returns the result of a hashing function as a string of double length
 
 \>\>\>hashlib.sha224("Nobody inspects the spammish repetition").hexdigest()
 
