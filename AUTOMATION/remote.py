@@ -3,9 +3,9 @@ import pwn
 from Crypto import *
 
 def connect_to():
-    print("Connecting ")
-    host = str(input("to:"))
-    port = int(input())
+    print("Connecting to:")
+    host = input("host:")
+    port = input("")
     print(host, port)
     rec = input("Do you want to connect through SSL?(yes/no):")
     if(rec[0]=='y'):
