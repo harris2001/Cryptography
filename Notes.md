@@ -1,7 +1,7 @@
 # PRINTABLES
 ### Returns all the printable ASCII characters
 
->>>printables = string.printable
+\>\>\>printables = string.printable
 >>>printables
 >>>0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ!"#$%&'()*+, -./:;<=>?@[\]^_`{|}~ 
 
