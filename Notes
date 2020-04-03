@@ -1,11 +1,13 @@
-printables=string.printable #returns all printable characters 
+#PRINTABLES
+##Returns all the printable ASCII characters
 '''
 >>>printables = string.printable
 >>>printables
 >>>0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ!"#$%&'()*+, -./:;<=>?@[\]^_`{|}~ 
 '''
 
-binascii.unhexlify(byt) # Return the binary data represented by the hexadecimal string hexstr
+#UNHEXLIFY
+## Return the binary data represented by the hexadecimal string hexstr
 '''
 >>>a = "9a87ec645a32cab578b2"
 >>>b = binascii.unhexlify(a)
