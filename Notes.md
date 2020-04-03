@@ -3,7 +3,7 @@
 
 \>\>\>printables = string.printable
 
-\>\>\>printables\n
+\>\>\>print(printables)
 
 \>\>\>0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ!"#$%&'()*+, -./:;<=>?@[\]^_`{|}~ \n
 
