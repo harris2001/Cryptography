@@ -1,9 +1,9 @@
 # PRINTABLES
 ### Returns all the printable ASCII characters
 
-\>\>\>printables = string.printable
-\>\>\>printables
-\>\>\>0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ!"#$%&'()*+, -./:;<=>?@[\]^_`{|}~ 
+\>\>\>printables = string.printable\n
+\>\>\>printables\n
+\>\>\>0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ!"#$%&'()*+, -./:;<=>?@[\]^_`{|}~ \n
 
 
 # UNHEXLIFY
