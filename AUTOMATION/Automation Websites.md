@@ -1,5 +1,5 @@
-## Cipher Identifier
+# Cipher Identifier
 https://www.boxentriq.com/code-breaking/cipher-identifier
 
-## Vignere Cipher
+# Vignere Cipher
 https://www.guballa.de/vigenere-solver
